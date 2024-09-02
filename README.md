@@ -15,5 +15,5 @@ CSE, B.Tech
 - P1
 - P2
 
-## Projects
-### Demand Forecasting
+### Projects
+#### Demand Forecasting
